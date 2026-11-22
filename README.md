@@ -6,11 +6,12 @@ Weekly Python projects and learning notes.
 
 ## 目前進度
 
-**已完成 1 個專案。** 點選專案名稱，可查看詳細功能、執行方式與程式碼。
+**已完成 2 個專案。** 點選專案名稱，可查看詳細功能、執行方式與程式碼。
 
 | 週次 | 專案 | 核心技能 | 狀態 |
 | --- | --- | --- | --- |
 | 01 | [學習時間紀錄器](projects/week-01/) | 輸入、條件判斷、迴圈、串列、字典、例外處理 | 已完成 |
+| 02 | [文字檔關鍵字搜尋器](projects/week-02/) | UTF-8 文字檔讀取、逐行搜尋、函式、例外處理 | 已完成 |
 
 ## 學習方向
 
@@ -31,9 +32,8 @@ python-weekly-projects/
 ├── .gitignore                   # Python 暫存檔與本機環境的忽略規則
 ├── projects/
 │   ├── README.md                # 專案整理方式
-│   └── week-01/
-│       ├── README.md            # 專案介紹與執行方式
-│       └── main.py              # 第 1 週學習時間紀錄器
+│   ├── week-01/
+│   └── week-02/
 └── templates/
     └── project-readme.md        # 有需要時可使用的專案說明範本
 ```
